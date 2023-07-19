@@ -7,7 +7,7 @@ function Header() {
   const {isDarkMode, handleThemeSwitch} = useTheme()
 
   return (
-    <header className="flex py-10 justify-between items-center">
+    <header className="flex py-10 max-sm:py-5 justify-between items-center">
       <a>
         <picture>
           <img src={isDarkMode ? Logo : LogoDark} alt="logo sergio diaz" width={150} height={150}></img>
