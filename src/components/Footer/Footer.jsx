@@ -27,7 +27,7 @@ function Footer() {
         </a>
       </div>
       <div>
-        <p className="max-sm:text-xs text-sm text-gray-500">{'<'}Sergio Díaz Serena{'/>'} | Have a nice day :) </p>
+        <p className="max-sm:text-xs text-sm text-gray-500">{'<'}Sergio Díaz Serena{'/>'} | <a href="https://youtu.be/uCg2BoKiuOM" target="_blank">Have a nice day :)</a> </p>
       </div>
     </footer>
   );
