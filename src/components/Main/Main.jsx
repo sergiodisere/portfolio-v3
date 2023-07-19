@@ -23,7 +23,7 @@ function Main() {
               height={100}
             />
           </a>
-          , as a front end developer in the{" "}
+          , as a front-end developer in the{" "}
           <a
             className="text-movistar font-extrabold"
             href="https://mistokens.movistar.com/"
